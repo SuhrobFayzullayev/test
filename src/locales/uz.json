@@ -1,0 +1,159 @@
+{
+  "top": {
+    "sub_title": "O'zbekistonda yagona kurs 3 tasi 1da:",
+    "title": "Buxgalteriya (1С), Kadrlar ishi va Moliya kursi",
+    "desc": "Binokor, Golden house, UzCard da faoliyat yuritgan O'zbekistonning eng kuchli mutaxassislar ishtirokida",
+    "spiker": {
+      "sub_title": "Asosiy spiker",
+      "title": "Islombek Akhmedov"
+    }
+  },
+  "infoCount": {
+    "title": "O'zbekiston bo'yicha eng KENG QAMROVLI kurs",
+    "desc": "Eng professional buxgalterlar, finansistlar, HR va auditorlar ishtirokidagi eng yuqori sifatli kompleks kurs. Bizning kurslarimiz bilan buxgalteriya, moliya va kadrlar",
+    "count": {
+      "1": "O'qituvchilar va spikerlar",
+      "2": "Aqlli mavzular ko'rsatiladi",
+      "3": "Sahifalik kitoblar material sifatida beriladi",
+      "free": "Bepul",
+      "4": "Onlayn video darslarga kirish"
+    }
+  },
+  "sertificate": {
+    "title": "3ta SERTIFIKAT - BITTA KURS",
+    "list": {
+      "label_one": "Buxgalter 1C",
+      "label_two": "Kadrlar ishi",
+      "label_three": "Moliya"
+    }
+  },
+  "video_intro": {
+    "title": "KURS BILAN TANISHUV",
+    "sub_title": "Islombek Akhmedovdan:",
+    "desc": "Buhgalter 10 yil tajribaga ega, АССА, PMP, PhD, PIMP, Sertifikatlangan Auditor"
+  },
+  "teachers": {
+    "title": "O'qituvchilar bilan tanishing",
+    "desc": "O'z sohasining professional o'qituvchilari mukammal",
+    "list": {
+      "1": {
+        "title": "Islombek Akhmedov",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "2": {
+        "title": "Dilmurod Parpibaev",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "3": {
+        "title": "Jahongir Abdullaev",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "4": {
+        "title": "Kamoliddin Esanov",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    }
+  },
+  "guarantee": {
+    "title": "BIZNING KAFOLAT:",
+    "desc": "Kursni 86% dan yuqori ball bilan tamomlang va 2 oy ichida ishga joylasha olmasangiz, sizni o'zimiz ishga qabul qilamiz"
+  },
+  "program": {
+    "title": "Darslar dasturi",
+    "list": {
+      "1": {
+        "title": "BUXGALTERIYANING 3 TA ASOSI",
+        "name": "Botir Mag'rufxanov",
+        "desc": "Botir - tadbirkor, eng ko'p sotilgan muallif va ma'ruzachi. Dunyodagi eng mashhur bloglardan birini yuritishdan tashqari, u 20 ta eng ko'p sotilgan kitoblarni yozgan, jumladan, Failure, The Core va Purple Cow."
+      },
+      "2": {
+        "title": "KADRLARNI QANDAY BOSHQARISH KERAK?",
+        "name": "Aynura Rasulova",
+        "desc": "U universitet davridan boshlab matematik modellashtirish usullaridan foydalanadi. Sanoat muhandisligi, intizom bo'yicha bakalavr va magistr darajalariga ega"
+      },
+      "3": {
+        "title": "KARYERADA YUTUQLARGA ERISHISH SIRLARI",
+        "name": "Jahongir Abdullaev",
+        "desc": "Muallif, hikoyalar bo'yicha maslahatchi va ilhomlantiruvchi ma'ruzachi 25 yildan ortiq hikoyalar va personajlar yaratish tajribasiga ega, ayniqsa Pixar va Simpsons filmlarida. Uning asarlari orasida \"O'yinchoqlar hikoyasi\", \"Monsters, Inc.\", \"Finding Nemon\", \"Avtomobillar\", \"Monsters University\", \"Ratatouille\", \"UP\" va boshqa ko'plab filmlar bor."
+      }
+    }
+  },
+  "opportunities": {
+    "1": "Ekspertlar bilan jonli va onlayn muloqot",
+    "2": "Har dars uchun alohida vazifa beriladi va muntazam tekshiriladi",
+    "3": "Haqiqiy firmalar bilan ishlash (rezyumeda yoritish mumkin)"
+  },
+  "course": {
+    "title": "Kurs kimlar uchun?",
+    "1": "Ish izlayotganlar",
+    "2": "Yoshlar",
+    "3": "Buxgalteriya sohasiga qiziqqanlar",
+    "4": "Bitiruvchilar",
+    "5": "Tadbirkorlar"
+  },
+  "why_finexpert": {
+    "title": "NEGA AYNAN FINEXPERT?",
+    "desc": "Barcha o'qituvchilar sertifikatlarga ega va maxsus tayyorlangan ta'lim programmasi asosida darslar o'tiladi",
+    "sertificate": {
+      "1": {
+        "title": "FinExpert o'quv markazi",
+        "name": "FinExpert o'quv markazi",
+        "year": "2022 yil"
+      },
+      "2": {
+        "title": "“ACCA F8”",
+        "name": "Botir Mag'rufxonov",
+        "year": "2023 yil"
+      },
+      "3": {
+        "title": "PMP",
+        "name": "Islombek Akhmedov",
+        "year": "2020 yil"
+      },
+      "4": {
+        "title": "“1C bo'yicha eng yaxshi o’qituvchi”",
+        "name": "Oynura Rasulova",
+        "year": "2023 yil"
+      }
+    }
+  },
+  "price_card": {
+    "title": "BETAKROR CHEGIRMALAR",
+    "1": {
+      "title": "KURS Buxgalteriya (1С)",
+      "old_price": "2 400 000",
+      "price": "1 000 000 sum/oyiga"
+    },
+    "2": {
+      "title": "Kadrlar (HR)",
+      "old_price": "1 000 000",
+      "price": "250 000 sum/oyiga"
+    },
+    "3": {
+      "title": "Karyera",
+      "old_price": "3 500 000",
+      "price": "1 500 000 sum/oyiga"
+    }
+  },
+  "button": {
+    "1": "Hozir sotib oling",
+    "2": "Hozir yoziling"
+  },
+  "footer": {
+    "title": "NARXLAR O'ZGARISHIGA OZ QOLDI!",
+    "desc": "orqali narx oshadi",
+    "day": "Kun",
+    "hour": "Soat",
+    "minute": "Daqiqa",
+    "second": "Sekund"
+  },
+  "images": "DEKABR OYIDA BO'LIB O'TGAN 1C O'QUV KURSIMIZ NATIJALARI",
+  "logo": "FIN EXPERT",
+  "form": {
+    "name": "F.I.O",
+    "error": "Maydon to'ldirilishi shart",
+    "phone": "Telefon",
+    "error_phone": "Telefon raqami o'zbek raqami bo'lishi kerak",
+    "buy": "SOTIB OLISH"
+  }
+}

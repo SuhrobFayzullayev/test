@@ -1,0 +1,103 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "allowSyntheticDefaultImports": true,
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "./types/nitro-imports"
+      ],
+      "#paths": [
+        "../node_modules/.pnpm/nuxt@3.10.1_rollup@4.9.6_sass@1.70.0_vite@5.0.12/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "../src"
+      ],
+      "~/*": [
+        "../src/*"
+      ],
+      "@": [
+        "../src"
+      ],
+      "@/*": [
+        "../src/*"
+      ],
+      "~~": [
+        "./.."
+      ],
+      "~~/*": [
+        "../*"
+      ],
+      "@@": [
+        "./.."
+      ],
+      "@@/*": [
+        "../*"
+      ],
+      "assets": [
+        "../src/assets"
+      ],
+      "assets/*": [
+        "../src/assets/*"
+      ],
+      "public": [
+        "../src/public"
+      ],
+      "public/*": [
+        "../src/public/*"
+      ],
+      "vue-i18n": [
+        "../node_modules/.pnpm/vue-i18n@9.9.1_vue@3.4.15/node_modules/vue-i18n/dist/vue-i18n"
+      ],
+      "@intlify/shared": [
+        "../node_modules/.pnpm/@intlify+shared@9.9.1/node_modules/@intlify/shared/dist/shared"
+      ],
+      "@intlify/message-compiler": [
+        "../node_modules/.pnpm/@intlify+message-compiler@9.9.1/node_modules/@intlify/message-compiler/dist/message-compiler"
+      ],
+      "@intlify/core-base": [
+        "../node_modules/.pnpm/@intlify+core-base@9.9.1/node_modules/@intlify/core-base/dist/core-base"
+      ],
+      "@intlify/core": [
+        "../node_modules/.pnpm/@intlify+core@9.9.1/node_modules/@intlify/core/dist/core.node"
+      ],
+      "@intlify/utils/h3": [
+        "../node_modules/.pnpm/@intlify+utils@0.12.0/node_modules/@intlify/utils/dist/h3"
+      ],
+      "ufo": [
+        "../node_modules/.pnpm/ufo@1.4.0/node_modules/ufo/dist/index"
+      ],
+      "is-https": [
+        "../node_modules/.pnpm/is-https@4.0.0/node_modules/is-https/dist/index"
+      ],
+      "#i18n": [
+        "../node_modules/.pnpm/@nuxtjs+i18n@8.0.2_rollup@4.9.6_vue@3.4.15/node_modules/@nuxtjs/i18n/dist/runtime/composables/index"
+      ]
+    }
+  },
+  "include": [
+    "./types/nitro-nuxt.d.ts",
+    "../node_modules/.pnpm/nuxt-windicss@2.6.1_rollup@4.9.6_vite@5.0.12/node_modules/nuxt-windicss/runtime/server",
+    "../node_modules/.pnpm/@nuxtjs+i18n@8.0.2_rollup@4.9.6_vue@3.4.15/node_modules/@nuxtjs/i18n/runtime/server",
+    "../node_modules/.pnpm/@element-plus+nuxt@1.0.7_@element-plus+icons-vue@2.3.1_element-plus@2.5.5_rollup@4.9.6/node_modules/@element-plus/nuxt/runtime/server",
+    "../node_modules/.pnpm/@nuxt+devtools@1.0.8_nuxt@3.10.1_rollup@4.9.6_vite@5.0.12/node_modules/@nuxt/devtools/runtime/server",
+    "../node_modules/.pnpm/@nuxt+telemetry@2.5.3_rollup@4.9.6/node_modules/@nuxt/telemetry/runtime/server",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../src/server/**/*"
+  ],
+  "exclude": [
+    "../node_modules",
+    "../../../node_modules",
+    "../node_modules/.pnpm/nuxt@3.10.1_rollup@4.9.6_sass@1.70.0_vite@5.0.12/node_modules/nuxt/node_modules",
+    "../dist"
+  ]
+}
